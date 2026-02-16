@@ -1,0 +1,7 @@
+Prompt: Explain what an API is in 3 sentences, as if talking to a 10-year-old.
+
+--- CLAUDE ---
+An API is like a waiter at a restaurant who takes your order to the kitchen and brings back your food. Instead of you going into the kitchen yourself, the waiter helps you get what you want without needing to know how the kitchen works. In computers, an API lets different programs talk to each other and share information, just like how the waiter helps you talk to the chef!
+
+--- GPT-4o ---
+An API is like a magic bridge that helps two different computer programs talk to each other. When you use an app on your tablet, the app might use an API to get information from another place, like checking the weather. It's like when you ask a friend for help, and they tell you what you need to know!
